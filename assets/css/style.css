@@ -7,12 +7,11 @@ body {
     font-size: 140%;
 }
 
-.bg-primary {
-    padding-top: 0%;
-    background-image: url("../images/watermelon-beach.jpeg") !important;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: left top;
+#intro{
+    background-color: #A5CFC9 !important;
+}
+#navbar{
+    background-color:#5174BF;
 }
 
 .navPosition {
@@ -52,7 +51,7 @@ body {
 }
 
 .introDiv {
-    padding-left: 3%;
+    padding-left: 15%;
     padding-bottom: 5%;
     text-align: left;
     font-weight: bold;
@@ -81,6 +80,9 @@ body {
 }
 
 .profilePic {
+    margin-right: 40%;
+    margin-top: 20%;
+    height: 70%;
     width: 60%;
     border-style: solid;
     border-color: white;
