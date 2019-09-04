@@ -160,6 +160,9 @@ button:hover {
     background-color: black;
     color: #A5CFC9;
 }
+.img-fluid{
+height:15rem;
+}
 
 .footer {
     text-align: center;
